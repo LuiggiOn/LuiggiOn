@@ -1,4 +1,4 @@
-### Hi! I'm Luiggi 😊
+### Hi! I'm Luiggi
 
 * Software Developer | Web Technician | Computer Science Student
 
