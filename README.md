@@ -1,6 +1,4 @@
-### Hi! I'm Luiggi
-
-* Software Developer | Web Technician | Computer Science Student
+### Software Developer | Web Technician | Computer Science Student
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiggi-garcia/)
@@ -9,7 +7,6 @@
 
 
 ![Luiggi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuiggiOn&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiggiOn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hard Skills: Languages & Technologies
