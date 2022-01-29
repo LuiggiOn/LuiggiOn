@@ -1,4 +1,4 @@
-### Software Developer | Technician Education | Bachelor of Computer Science
+### Software Developer | Technician | Computer Science Student
 
 Hi! I'm Luiggi and I'm a Developer and a Student of Computer Science and Technology.
 
