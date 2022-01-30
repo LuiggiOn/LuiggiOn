@@ -1,8 +1,8 @@
-# Software Developer | Technician | Computer Science Student
+## Software Developer | Technician | Computer Science Student
 
 #### I'm a developer focused on the study of computer science and technology. Technician Education with emphasis in Web Development and Graduating in CS.
 
-## Hard Skills: Languages & Technologies
+### Hard Skills: Languages & Technologies
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
