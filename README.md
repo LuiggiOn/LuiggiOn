@@ -1,6 +1,6 @@
-### Software Developer | Technician | Computer Science Student
+# Software Developer | Technician | Computer Science Student
 
-Hi! I'm Luiggi and I'm a Developer and a Student of Computer Science and Technology.
+#### I'm a developer focused on the study of computer science and technology. Technician Education with emphasis in Web Development and Graduating in CS.
 
 ## Hard Skills: Languages & Technologies
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
