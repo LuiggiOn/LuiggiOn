@@ -1,6 +1,6 @@
-## Software Developer | Technician | Computer Science Student
+## Software Developer & Computer Science Student
 
-#### I'm a developer focused on the study of computer science and technology. Technician Education with emphasis in Web Development and Graduating in CS.
+#### I'm a developer focused on the study of computer science and technology. I have technician education with emphasis in Web Development, also I'm graduating in CS.
 
 ### Hard Skills: Languages & Technologies
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
@@ -16,7 +16,7 @@
 <!-- [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]() -->
 <!-- [![Taildwild](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]() -->
 
-<!-- ![Luiggi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuiggiOn&show_icons=true&theme=radical) -->
+![Luiggi's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiggigarcia&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiggigarcia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
