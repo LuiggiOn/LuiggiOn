@@ -1,6 +1,6 @@
 # Hi, I'm Luiggi!
 
-#### I'm a web developer and a great enthusiast about learning and get new knowledges. Also, I have IT Technician Education and studying a Bachelor of Technology (Computer Science).
+#### I'm a web developer and a great enthusiast about learning and get new knowledges. Also, I have IT Technician Education and studying the Bachelor of Technology (Computer Science).
 
 ### Github stats
 ![Luiggi's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiggigarcia&show_icons=true&theme=)
