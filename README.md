@@ -1,6 +1,10 @@
-## Software Developer & Computer Science Student
+# Hi, I'm Luiggi!
 
-#### I'm a developer focused on the study of computer science and technology. I have technician education with emphasis in Web Development, also I'm graduating in CS.
+#### I'm a web developer and a great enthusiast about learning and get new knowledges. Also, I have IT Technician Education and studying a Bachelor of Technology (Computer Science).
+
+### Github stats
+![Luiggi's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiggigarcia&show_icons=true&theme=)
+
 
 ### Languages & Technologies
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
@@ -16,11 +20,7 @@
 <!-- [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]() -->
 <!-- [![Taildwild](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]() -->
 
-![Luiggi's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiggigarcia&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiggigarcia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiggi-garcia/)
