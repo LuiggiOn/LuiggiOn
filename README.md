@@ -1,4 +1,4 @@
-> Hi! I am Luiggi, a computer science studente, and a software developer.
+> Hi! I am Luiggi, a computer science student, and a software developer.
 > 
   <p align="left">
   <a href="mailto:luiggipg2908@gmail.com" alt="Gmail">
