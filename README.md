@@ -1,4 +1,4 @@
-> I am Luiggi, a web developer, and a computer science student. 
+> Hi! I am Luiggi, a computer science studente, and a software developer.
 > 
   <p align="left">
   <a href="mailto:luiggipg2908@gmail.com" alt="Gmail">
@@ -14,10 +14,10 @@
 
 ----
 
-<h2>Some Facts About Me</h2>
+<h2>About Me</h2>
 <ul>
 <li>I am a brazilian developer</li>
-<li>I’m currently learning new knowledges about soft skills, and computer science</li>
+<li>I’m currently learning about web technologies, and the world of computer science</li>
 <li>Learning about efficient algorithms, clean architecture, and clean code</li>
 <li>All of my projects are available on <a href="https://github.com/luiggigarcia">github</a>.</li>
 <li>Check out my <a href="https://www.linkedin.com/in/luiggi-garcia/">resume</a>.</li>
