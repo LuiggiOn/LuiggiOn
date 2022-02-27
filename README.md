@@ -1,4 +1,4 @@
-> Hi! I am Luiggi, a computer science student, and a software developer.
+> Hi! I am Luiggi! I am a computer science student with IT Technician education with enphasis in Web Development. Also, I love learning new things that bring a vast knowledge.
 > 
   <p align="left">
   <a href="mailto:luiggipg2908@gmail.com" alt="Gmail">
@@ -17,7 +17,7 @@
 <h2>About Me</h2>
 <ul>
 <li>I am a brazilian developer</li>
-<li>I’m currently learning about web technologies, and computer science</li>
+<li>I’m currently learning about web technologies, pyhton and javascript</li>
 <li>Also, learning about efficient algorithms, clean code, and clean architecture</li>
 <li>All of my projects are available on <a href="https://github.com/luiggigarcia">github</a>.</li>
 <li>Check out my <a href="https://www.linkedin.com/in/luiggi-garcia/">resume</a>.</li>
@@ -27,6 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
 ![Git](https://img.icons8.com/color/30/000000/git.png)
