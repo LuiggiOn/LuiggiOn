@@ -1,4 +1,4 @@
-> Hi! I am Luiggi! I am a computer science student with IT Technician education with enphasis in Web Development. Also, I love learning new things that bring a vast knowledge.
+> Hi! I am Luiggi! A computer science student communicative and passionate by learning. Also, I am a IT Technician experienced in web development.
 > 
   <p align="left">
   <a href="mailto:luiggipg2908@gmail.com" alt="Gmail">
