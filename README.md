@@ -1,4 +1,4 @@
-> Hi! I am Luiggi! A computer science student communicative and passionate by learning. Also, I am a IT Technician experienced in web development.
+> Hi! I am Luiggi! A computer science student, and a IT Technician experienced in web development. I am a communicative person, and motivated by learning.
 > 
   <p align="left">
   <a href="mailto:luiggipg2908@gmail.com" alt="Gmail">
@@ -17,9 +17,9 @@
 <h2>About Me</h2>
 <ul>
 <li>I am a brazilian developer</li>
-<li>I’m currently learning about web technologies, pyhton and javascript</li>
-<li>Also, learning about efficient algorithms, clean code, and clean architecture</li>
-<li>All of my projects are available on <a href="https://github.com/luiggigarcia">github</a>.</li>
+<li>I like to study and read everyday</li>
+<li>I am currently learning about efficient algorithms, clean code, and clean architecture</li>
+<li>All of my projects are available on <a href="https://github.com/luiggigarcia">github repos</a>.</li>
 <li>Check out my <a href="https://www.linkedin.com/in/luiggi-garcia/">resume</a>.</li>
 </ul>
 
