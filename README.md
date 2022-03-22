@@ -17,7 +17,7 @@
 <h2>About Me</h2>
 <ul>
 <li>I am a brazilian developer</li>
-<li>I like to study and read everyday</li>
+<li>I am a student and a enthusiast of computer and technology</li>
 <li>I am currently learning about efficient algorithms, clean code, and clean architecture</li>
 <li>All of my projects are available on <a href="https://github.com/luiggigarcia">github repos</a>.</li>
 <li>Check out my <a href="https://www.linkedin.com/in/luiggi-garcia/">resume</a>.</li>
