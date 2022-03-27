@@ -1,4 +1,6 @@
-> Hi! I am Luiggi! A computer science student, and a IT Technician experienced in web development. I am a communicative person, and motivated by learning.
+> Hello,
+> 
+> I am Luiggi Garcia. A computer science student, and a IT Technician experienced in web development. I am a communicative person, and motivated by learning.
 > 
   <p align="left">
   <a href="mailto:luiggipg2908@gmail.com" alt="Gmail">
