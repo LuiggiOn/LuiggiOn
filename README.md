@@ -1,6 +1,6 @@
-> Hello,
+> Hello!
 > 
-> I am Luiggi Garcia. A computer science student, and a IT Technician experienced in web development. I am a communicative person, and motivated by learning.
+> I am Luiggi P. Garcia. A computer science student, and a IT Technician experienced in web development. Communicative person and motivated by constant learning.
 > 
   <p align="left">
   <a href="mailto:luiggipg2908@gmail.com" alt="Gmail">
@@ -19,13 +19,13 @@
 <h2>About Me</h2>
 <ul>
 <li>I am a brazilian developer</li>
-<li>I am a student and a enthusiast of computer and technology</li>
-<li>I am currently learning about efficient algorithms, clean code, and clean architecture</li>
-<li>All of my projects are available on <a href="https://github.com/luiggigarcia">github repos</a>.</li>
-<li>Check out my <a href="https://www.linkedin.com/in/luiggi-garcia/">resume</a>.</li>
+<li>I am a student and a enthusiast of Computer Science, Technology and Data</li>
+<li>I am currently learning about efficient algorithms, clean code and clean architecture</li>
+<li>All of my projects are available on <a href="https://github.com/luiggigarcia">my github repositories</a>.</li>
+<li>Check out my <a href="https://www.linkedin.com/in/luiggi-garcia/">resume on linkedin</a>.</li>
 </ul>
 
-## Languages and technologies
+## Main Skills: Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
