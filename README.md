@@ -1,6 +1,6 @@
 > Hello!
 > 
-> I am Luiggi P. Garcia. A computer science student, and a IT Technician experienced in web development. Communicative person and motivated by constant learning.
+> I am Luiggi Paschoalini Garcia. A computer science student, and a IT Technician experienced in web development. Communicative person and motivated by constant learning.
 > 
   <p align="left">
   <a href="mailto:luiggipg2908@gmail.com" alt="Gmail">
@@ -19,10 +19,10 @@
 <h2>About Me</h2>
 <ul>
 <li>I am a brazilian developer</li>
-<li>I am a student and a enthusiast of Computer Science, Technology and Data</li>
+<li>I am a student and a enthusiast of Computer Science, Technology and Data Science</li>
 <li>I am currently learning about efficient algorithms, clean code and clean architecture</li>
-<li>All of my projects are available on <a href="https://github.com/luiggigarcia">my github repositories</a>.</li>
-<li>Check out my <a href="https://www.linkedin.com/in/luiggi-garcia/">resume on linkedin</a>.</li>
+<li>All of my projects are available on my github <a href="https://github.com/luiggigarcia">repositories</a>.</li>
+<li>Check out my resume on <a href="https://www.linkedin.com/in/luiggi-garcia/">linkedin</a>.</li>
 </ul>
 
 ## Main Skills: Languages and Technologies
