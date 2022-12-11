@@ -14,9 +14,8 @@
 
 ----
 
-<h2>A little a about me</h2>
+<h2>About me</h2>
 <ul>
-<li>I am a brazilian developer</li>
 <li>Computer Science student at FEI University</li>
 <li>IT Technician with enphasis in web development</li>
 <li>I am currently learning about problem solving, clean code and clean architecture</li>
